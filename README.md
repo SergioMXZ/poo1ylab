@@ -15,3 +15,19 @@
 - _p07_OperacionesAsignacion
 - _p08_FuncionesTrigonometricas
 - _p09_DividirEnCifras
+
+## Actividad 3
+- _p10_HipotenusaTriangulo
+- _p11_CalcularAngulo
+- _p12_ConvertirTemperatura
+- _p13_VolumenCilindro
+- _p14_CalculoTiempo
+- _p15_ConvertirADolares
+
+## Practica 1
+
+- _p16_TrabajandoEnteros
+- _p17_TrabajandoFlotantes
+- _p18_TrabajandoConstantes
+- _p19_TrabajandoCaracteres
+- _p20_ConversionTipos
