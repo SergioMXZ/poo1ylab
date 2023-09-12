@@ -73,7 +73,7 @@
 - _p46_TablaConversion
 - _p47_ConjeturaCollatz
 
-## Actividad 9
+## Practica 3
 _p48_ImparesAscendente
 _p49_ParesDescendente
 _p50_ConversionTemperaturas
