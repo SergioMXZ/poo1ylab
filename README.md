@@ -106,8 +106,8 @@
 - _p69_CalificacionLetra
 
 ## Actividad 12
-# - _p70_MayorTresNumeros
-# - _p71_SumaDigitos
-# - _p72_SumaParesImpares
-# - _p73_Factorial
-# - _p74_CuadroCaracter
+- _p70_MayorTresNumeros
+- _p71_SumaDigitos
+- _p72_SumaParesImpares
+- _p73_Factorial
+- _p74_CuadroCaracter
