@@ -105,7 +105,7 @@
 - _p68_TablaMultiplicar
 - _p69_CalificacionLetra
 
-# Actividad 12
+## Actividad 12
 # - _p70_MayorTresNumeros
 # - _p71_SumaDigitos
 # - _p72_SumaParesImpares
