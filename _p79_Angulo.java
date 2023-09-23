@@ -1,14 +1,4 @@
-/* Diseña un programa con una función que reciba como 
-parámetro un ángulo entre 0 y 360 grados, y regrese una
-palabra con el tipo de ángulo, en base a lo siguiente:
-• < 90 agudo,
-• = 90 recto,
-• >90 y <180 obtuso,
-• = 180 llano,
-• > 180 y < 360 concavo
-Nota:
-• Antes de llamar a la función deberá validar 
-que el ángulo es válido (0 a 360). */
+// Indica el tipo de angulo que fue ingresado
 
 import java.util.Scanner;
 
