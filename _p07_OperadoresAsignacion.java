@@ -1,4 +1,4 @@
-// Ejecuta operaciones usando los diferentes operadores de asignacion
+
 
 import java.util.Scanner;
 

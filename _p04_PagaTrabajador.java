@@ -1,4 +1,4 @@
-// Calcular la paga a sun trabajador
+
 
 import java.util.Scanner;
 

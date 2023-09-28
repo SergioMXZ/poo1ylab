@@ -1,4 +1,4 @@
-// Calcule el area de un triangulo
+
 
 import java.util.Scanner;
 

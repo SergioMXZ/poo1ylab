@@ -1,4 +1,4 @@
-// Divide un Numero de Tres Cifras en Unidades, Decenas y Centenas
+
 
 import java.util.Scanner;
 

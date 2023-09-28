@@ -1,4 +1,4 @@
-// Calcula las funciones trigonometricas basicas de un angulo en radianes
+
 
 import java.util.Scanner;
 

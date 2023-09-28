@@ -1,4 +1,4 @@
-// Calcula la Hipotenusa de un Triángulo Rectángulo Dadas las Longitudes de sus Lados
+
 
 import java.util.Scanner;
 
