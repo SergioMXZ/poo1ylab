@@ -21,6 +21,7 @@ public class Empleado {
     @Override // no necesaria
     public String toString() {
         return "Empleado [Nombre=" + Nombre + ", Edad=" + Edad + "]";
+        // return String.format("Nombre: %s, Edad: %d",Nombre,Edad);
     }
 
 }

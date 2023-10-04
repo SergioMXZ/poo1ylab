@@ -8,5 +8,4 @@ public class Empleado {
     public String toString() {
         return "Empleado [Nombre=" + Nombre + ", Edad=" + Edad + "]";
     }
-    
 }

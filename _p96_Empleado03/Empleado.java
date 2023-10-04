@@ -7,8 +7,8 @@ public class Empleado {
     public Empleado() { // ctor
     }
     public Empleado(String nombre, int edad ) {
-        Nombre = nombre; // this.Nombre = nombre
-        Edad = edad;
+        this.Nombre = nombre; // Nombre = nombre
+        this.Edad = edad;
     }
 
     public String getNombre() {
@@ -29,5 +29,4 @@ public class Empleado {
     public String toString() {
         return "Empleado [Nombre=" + Nombre + ", Edad=" + Edad + "]";
     }
-
 }
