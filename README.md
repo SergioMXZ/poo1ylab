@@ -112,7 +112,7 @@
 - _p73_Factorial
 - _p74_CuadroCaracter
 
-## Proyecto 5
+## Practica 5
 - _p75_NumeroMenor
 - _p76_DiaSemana  
 - _p77_MedidasLongitud  
@@ -134,3 +134,9 @@
 - _p87_ArregloTemperaturas
 - _p88_Aleatorios
 - _p89_ArregloAleatorios
+
+## Practica 6
+- _p90_Temperaturas
+- _p91_MayoresPromedio
+- _p92_MayorMenor
+- _p93_ParesImpares
