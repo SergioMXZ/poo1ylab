@@ -1,4 +1,4 @@
-/*Elaborar un programa que:
+/*Elaborar un programa que: 
 • Permita al usuario capturar n calificaciones en un arreglo de números flotantes.
 • Muestre los elementos del arreglo
 • Calcule y muestre la suma y el promedio de los elementos del arreglo

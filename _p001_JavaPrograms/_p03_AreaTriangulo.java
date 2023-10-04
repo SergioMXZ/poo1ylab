@@ -1,5 +1,3 @@
-package _p001_JavaPrograms;
-
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-/*Elaborar un programa que:
+/*Elaborar un programa que: 
 • Muestre el primer elemento
 • Muestre el tercer elemento
 • Muestre los elementos del arreglo
