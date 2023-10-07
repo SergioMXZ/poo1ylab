@@ -1,4 +1,4 @@
-package _p100_Articulo;
+
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package _p96_Empleado04;
+package _p97_Empleado04;
 
 public class Empleado {
     private String Nombre;
