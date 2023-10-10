@@ -1,4 +1,4 @@
-package _p94_Empleado01;
+package _p094_Empleado01;
 
 public class Empleado {
     public String Nombre;

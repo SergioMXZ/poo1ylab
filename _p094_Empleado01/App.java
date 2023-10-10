@@ -1,6 +1,6 @@
 // Clase para manejar objetos
 
-package _p94_Empleado01;
+package _p094_Empleado01;
 
 public class App {
     public static void main(String[] args) {

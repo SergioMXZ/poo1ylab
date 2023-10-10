@@ -1,4 +1,4 @@
-package _p96_Empleado03;
+package _p096_Empleado03;
 
 public class App {
     public static void main(String[] args) {
