@@ -1,4 +1,4 @@
-package _p99_Rectangulo;
+package _p099_Rectangulo;
 
 public class App {
     public static void main(String[] args) {
