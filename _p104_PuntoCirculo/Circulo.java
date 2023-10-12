@@ -1,7 +1,5 @@
 package _p104_PuntoCirculo;
 
-import _p105_PuntoTriangulo.Punto;
-
 public class Circulo {
     private Punto Centro;
     private double Radio;

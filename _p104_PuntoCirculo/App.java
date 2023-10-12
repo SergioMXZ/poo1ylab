@@ -1,7 +1,5 @@
 package _p104_PuntoCirculo;
 
-import _p105_PuntoTriangulo.Punto;
-
 public class App {
     public static void main(String[] args) {
         Circulo circulo1 = new Circulo(new Punto(5, 8), 6);
