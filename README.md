@@ -186,3 +186,7 @@
 - _p115_Telefono
 - _p116_Juego
 - _p114_FiguraGeometrica
+
+## Actividad 21
+- _p118_Calculadora
+- _p119_Organismo
