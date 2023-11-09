@@ -1,4 +1,4 @@
-package _p666_Excepciones;
+package _p121_p126_Excepciones;
 
 public class _p121_Excepcion1 {
     public static void main(String[] args) {

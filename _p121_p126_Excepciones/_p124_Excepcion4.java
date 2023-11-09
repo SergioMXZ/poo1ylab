@@ -1,9 +1,10 @@
-package _p666_Excepciones;
+package _p121_p126_Excepciones;
+
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class _p123_Excepcion3 {
+public class _p124_Excepcion4 {
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
         try {
@@ -13,11 +14,10 @@ public class _p123_Excepcion3 {
             int b = obj.nextInt();
             int c = a / b;
             System.out.println("El resultado es " + c);
-            obj.close();
-        } catch (ArithmeticException e) {
-            System.out.println("El denominador no puede ser 0");
-        } catch (InputMismatchException e) {
-            System.out.println("Numerador y Denominador deben ser números enteros");
+        } catch (ArithmeticException | InputMismatchException e) {
+            System.out.println("Los valores debe ser numéricos y el denominador diferente de 0");
+            System.out.println("Mensaje del sistema: " + e);
         }
+        obj.close();
     }
 }

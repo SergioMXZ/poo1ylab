@@ -1,4 +1,5 @@
-package _p666_Excepciones;
+package _p121_p126_Excepciones;
+
 
 import java.util.Scanner;
 
